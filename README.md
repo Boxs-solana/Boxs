@@ -1,17 +1,25 @@
 ---
-description: Introduction
+description: Way
 ---
 
-# Boxs
+# theory
 
-The new standard for inscribed assets. It leverages the unique ability of data to be parsed from multiple perspectives. Welcome to BOXS, a transformative metaverse standard leveraging the sol blockchain. Adopting ERC115+BRC20 changes, BOXS provides a new and groundbreaking way to bring rights to BOXS. This is a new frontier in the world of decentralized digital ownership and a new understanding of inscription infrastructure.
+This section is actively being written.
 
-BOXS is a new consensus sta。。ndard that allows anyone to declare space digital assets
+Part of the NFT series, (Greed, Jealousy, Pride, Ego, etc.) Unfortunately, this fatal feeling breathes within us; the artist is above everyone else.
 
-The platform can parse BOXS data into token realms and grant build access to block owners, creating a new paradigm for open source development.
+Throughout modern history, the barriers to entry for artists and collectors into the traditional art market have been extremely high.
 
-The ERC1155 protocol + BRC20 adopted by BOXS realizes the first token swap on SOL. BOXS is not a complete non-fungible token, but a semi-fungible token. BOX can be split into tokens, and tokens can also be synthesized into BOX. Note: BOX and token prices are not anchored, which will be interesting.
+A mentality of exclusivity, high-profile and artificial scarcity illusoryly dominates the existing art world. At the same time, truly talented artists with no connections lack exposure, while the 0.1% rise to fame because of their privileged circumstances.
 
-### **Join the revolution**
+Likewise, collectors can only participate in a specific auction if their net worth exceeds concentrated demand, which has the net effect of excluding quality art and minimizing the buying population that supports artists and stimulates creativity around the world.
 
-We invite you to join us on this exciting journey to build a truly open BOX. whether
+For art, what is needed is an open, decentralized platform with no restrictions or barriers to entry. This is also the essence of art - buyers and artists from all over the world can trade freely without dependence. Auction houses act as middlemen.
+
+The emergence of NFT brings an opportunity to return power to artists - allowing them to gain control over their works and democratizing access to the global art market without the need for middlemen.
+
+Now, the NFT works of digital artists and musicians exceed the digital art market share, and the transaction prices are also dizzying. At the same time, they have also turned cryptocurrency skeptics into people curious about cryptocurrency, thus adding to the NFT bull market. More motivation.
+
+The defining thing about all successful cryptocurrencies, tokens, and Web 3.0 applications is that they provide solutions to real-world problems, whether it’s disintermediation, profit incentives, or increasing traffic. NFTs are a great solution for artists and creators who have been frustrated by the high commissions and marketing costs of traditional institutions, auction houses, and the high barriers set by traditional gatekeepers. It's just a good solution. When the inscription is turned on, an updated combination appears.
+
+A typical NFT market charges only a fraction of traditional auction house commissions. In exchange, the cost and burden of marketing shifts to the artist/creator. Take OpenSea, for example, which involves no marketing and zero review process, so the barrier to entry is low, with commissions as low as 2.5%. Partion's platform allows artists to retain up to 100% of auction proceeds. The emergence of new things in BOXS means overturning the era when NFT was just a collection. This may be the wrong choice, but we are trying.
